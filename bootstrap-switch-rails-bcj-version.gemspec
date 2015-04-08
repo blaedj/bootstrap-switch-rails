@@ -1,7 +1,7 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'bootstrap-switch-rails/version'
+require 'bootstrap-switch-rails-bcj-version/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "bootstrap-switch-rails-bcj-version"
