@@ -1,5 +1,4 @@
-# bootstrap-switch-rails [![Gem Version](https://badge.fury.io/rb/bootstrap-switch-rails.png)](http://badge.fury.io/rb/bootstrap-switch-rails)
-
+# bootstrap-switch-rails-bcj-version [![Gem Version](https://badge.fury.io/rb/bootstrap-switch-rails-bcj-version.svg)](http://badge.fury.io/rb/bootstrap-switch-rails-bcj-version)
 bootstrap-switch-rails provides the [bootstrap-switch](http://www.bootstrap-switch.org/)
 plugin as a Rails engine to use it within the asset pipeline.
 
